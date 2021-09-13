@@ -29,3 +29,24 @@ body {
 .container p {
     font-size: 2rem;
 }
+
+/* cabecera */
+
+.cabecera{
+    background-color: blue;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    color: white;    
+    padding: 2rem;
+    align-items: center;
+    box-shadow: .7rem .7rem gray; 
+}
+.cabecera h1{
+    font-size: 4rem;
+}
+
+.cabecera p{
+    font-size: 2rem;
+    padding-left: 3rem;
+}
