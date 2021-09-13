@@ -9,13 +9,13 @@ html {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     color: gray;
 }
 
 .container {
     width: 80%;
-    height: 20vh;
+    height: auto;
     padding: 2rem;
     margin: 0 auto;
     border: solid .3rem black;
